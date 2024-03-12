@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm [@qthingz](https://github.com/qthingz)
+I'm [Q Thingz](https://github.com/qthingz)
 
 I'm interested in Data Analysis and Data Engineering. 
 
