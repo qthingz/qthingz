@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm @qthingz
+
+I'm interested in Data Analysis and Data Engineering.
+
+I use NumPy and Pandas for data exploration, and I'm currently still expanding my knowledge in Python data analysis.
+
+I'm looking to collaborate on Data Analysis Projects.
+
+How to reach me: LinkedIn
