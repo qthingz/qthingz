@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm @qthingz
+I'm [@qthingz](https://github.com/qthingz)
 
-I'm interested in Data Analysis and Data Engineering.
+I'm interested in Data Analysis and Data Engineering. 
 
-I use NumPy and Pandas for data exploration, and I'm currently still expanding my knowledge in Python data analysis.
+I'm proficient in using NumPy and Pandas for data exploration, and I'm currently expanding my knowledge in Python data analysis.
 
 I'm looking to collaborate on Data Analysis Projects.
 
-How to reach me: LinkedIn
+How to reach me: [LinkedIn](https://www.linkedin.com/in/quamiokonny)
